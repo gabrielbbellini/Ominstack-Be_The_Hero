@@ -1,0 +1,15 @@
+O que será salvo no Banco de dados.
+
+1 - ONG
+2 - Casos (incident)
+
+Funcionalidades:
+
+- Login ONG
+- Cadastro de ONG
+- Logout ONG
+- Cadastrar Casos
+- Deletar Casos
+- Listar os Casos específicos de uma ONG
+- Listar todos os Casos
+- Entrar em contato com a ONG
